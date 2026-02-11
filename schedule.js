@@ -4,8 +4,8 @@
 
       Tipton Turbines
       Baseball Schedule Data
-      Author: 
-      Date:   
+      Author: Kat Morris
+      Date: 2-10-26 
 
       Filename: schedule.js
 */
